@@ -23,7 +23,7 @@ A Tkinter-based application for text processing and word count analysis. This to
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/text-processing-tool.git
+    git clone https://github.com/Syed-M-Nofel/Text-Processing-Tool.git
     ```
 2. Navigate to the project directory:
     ```bash
