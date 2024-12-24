@@ -27,11 +27,11 @@ A Tkinter-based application for text processing and word count analysis. This to
     ```
 2. Navigate to the project directory:
     ```bash
-    cd text-processing-tool
+    cd Text-Processing-Tool
     ```
 3. Run the application:
     ```bash
-    python text_processing_tool.py
+    python main.py
     ```
 
 ## How to Use
